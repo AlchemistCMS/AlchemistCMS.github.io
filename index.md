@@ -1,35 +1,18 @@
 ## Welcome to AlchemistCMS
 
-You can clone this or we host.
+We are in a pretty Early Stage.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Technology: Elixir, Phoenix framework and OTP.
 
-### Markdown
+- Considering ReactJs for frontend.
+- It will be an Umbrella app, like a SaaS and focused on standard practices.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- When logged in as an site-admin, you will have a backend through which you can modify page content and template.
+- Quickly create landing pages or a basing (3 field) simple form.
 
-```markdown
-Syntax highlighted code block
+- You can choose a template for how page visitor will see it or add a completely custom CSS and template.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlchemistCMS/AlchemistCMS.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I have invited a few people to contribute. Inviting you too.
+ 
 
 ### Support or Contact [contact support](https://github.com/sandeshsoni) and we’ll help you sort it out.

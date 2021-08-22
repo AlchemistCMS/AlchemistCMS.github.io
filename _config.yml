@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: [AlchemistCMS]
+description: [An opensource CMS built using Elixir-lang, Phoenix framework]
+show_downloads: [true]
