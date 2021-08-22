@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
-title: [AlchemistCMS]
+title: AlchemistCMS - A CMS built using Elixir.
 description: [An opensource CMS built using Elixir-lang, OTP and Phoenix framework]
+baseurl: /alchemist-umbrella
 
 github:
   zip_url: https://github.com/AlchemistCMS
