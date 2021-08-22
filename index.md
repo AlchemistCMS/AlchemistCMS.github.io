@@ -12,13 +12,19 @@ We are in a pretty Early Stage.
 
 - You can choose a template for how page visitor will see it or add a completely custom CSS and template.
 
-### Use cases
+## Use cases
 
-## Case 1: Realtime votes / Multiple choice quizzes.
+### Case 1: Realtime votes / Multiple choice quizzes.
 
-## Case 2: SaaS like custom domains for landing page & easy form for feedback/survey/voting.
+### Case 2: SaaS like custom domains for landing page & easy form for feedback/survey/voting.
 
-## Case 3: Dashboard showing realtime or filter based answers. 
+### Case 3: Dashboard showing realtime or filter based answers. 
+
+### show realtime count of visitors.
+
+### One time password or TOTP to verify the visitor is real.
+
+We want to make it generic so people can fork it and extend to customize for their use.
 
 I have invited a few people to contribute. Inviting you too.
  
